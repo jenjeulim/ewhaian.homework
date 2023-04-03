@@ -1,0 +1,472 @@
+#bar {
+    position: absolute;
+    left: 17.54%;
+    right: 19.3%;
+    top: 28.07%;
+    bottom: 29.82%;
+}
+#logo {
+    height: 28px;
+    width: 135px;
+    left: -804px;
+    top: -529px;
+    border-radius: 0px;
+
+}
+#검색 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 764px;
+    height: 45px;
+    left: 504px;
+    top: 15px;
+
+    border: 1px solid #AAAAAA;
+    border-radius: 34px;
+
+}
+#text검색 {
+    position: absolute;
+    width: 37px;
+    height: 24px;
+    left: 520px;
+    top: 26px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #5E5E5E;
+
+
+}
+#검색창우측 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 93px;
+    height: 45px;
+    left: 1175px;
+    top: 15px;
+
+    background: rgba(207, 207, 207, 0.21);
+    border: 1px solid #AAAAAA;
+    border-radius: 0px 34px 34px 0px;
+}
+#검색창gray {
+    position: absolute;
+    left: 671px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
+#돋보기아이콘 {
+   position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 8.33%;
+bottom: 12.5%;
+
+background: #000000;
+    
+}
+#mc {
+    position: absolute;
+    left: 20.83%;
+    right: 20.83%;
+    top: 8.33%;
+    bottom: 12.5%;
+    
+    background: #000000;
+#알람 {
+    position: absolute;
+    left: 89.49%;
+    right: 8.9%;
+    top: 2.14%;
+    bottom: 95.6%;
+    
+    background: #000000;
+
+}
+#계정{
+    position: absolute;
+    width: 46.59px;
+    height: 46.59px;
+    left: 1538px;
+    top: 14px;
+    
+}
+#전체 {
+    position: absolute;
+    top: 92px;
+    right: 1470px;
+    bottom: 986px;
+    left: 80px;
+#text전체 {
+    
+    width: 37px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 18px;
+    bottom: 11px;
+    left: 19px;
+    
+    color: #EFEFEF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+#음악 {
+    position: absolute;
+    top: 92px;
+    right: 1372px;
+    bottom: 986px;
+    left: 178px;
+
+}
+
+#text음악 {
+    
+    width: 37px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 18px;
+    bottom: 11px;
+    left: 19px;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+#믹스 {
+    position: absolute;
+    top: 92px;
+    right: 1274px;
+    bottom: 986px;
+    left: 276px;
+}
+
+#text믹스 {
+    width: 37px;
+    height: 24px;
+   
+    position: absolute;
+    top: 10px;
+    right: 18px;
+    bottom: 11px;
+    left: 19px;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+}
+#게임 {
+    position: absolute;
+    top: 92px;
+    right: 1176px;
+    bottom: 986px;
+    left: 374px;
+}
+
+#text게임 {
+    width: 37px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 18px;
+    bottom: 11px;
+    left: 19px;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#실시간 {
+    position: absolute;
+    top: 92px;
+    right: 1062px;
+    bottom: 986px;
+    left: 472px;
+
+}
+
+#text실시간 {
+    width: 56px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 17px;
+    bottom: 11px;
+    left: 17px;
+    text-align: center;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#동계스포츠 {
+    position: absolute;
+    top: 92px;
+    right: 880px;
+    bottom: 986px;
+    left: 586px;
+}
+
+#text동계스포츠 {
+    width: 108.27px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 24.73px;
+    bottom: 11px;
+    left: 25px;
+    text-align: center;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+#만화영화 {
+    position: absolute;
+    top: 92px;
+    right: 736px;
+    bottom: 986px;
+    left: 768px;
+}
+
+#text만화영화 {
+    width: 82.23px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 18.78px;
+    bottom: 11px;
+    left: 18.99px;
+    text-align: center;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+
+#최근업로드영상 {
+    position: absolute;
+    top: 92px;
+    right: 434px;
+    bottom: 986px;
+    left: 912px;
+}
+
+#text최근에업로드된동영상 {
+    width: 190.49px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 43.45px;
+    bottom: 11px;
+    left: 44.06px;
+    text-align: center;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+
+}
+
+#새로운맞춤영상 {
+    position: absolute;
+    top: 92px;
+    right: 171px;
+    bottom: 986px;
+    left: 1214px;
+}
+
+#text새로운맞춤동영상 {
+    width: 163.77px;
+    height: 24px;
+    
+    position: absolute;
+    top: 10px;
+    right: 37.35px;
+    bottom: 11px;
+    left: 37.88px;
+    text-align: center;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 20px;
+    line-height: 24px;
+}
+#channel1 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 167px;
+    top: 198px;
+    
+
+}
+
+#channel2 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 611px;
+    top: 198px;
+
+}
+
+#channel3 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 1055px;
+    top: 194px;
+
+
+}
+
+#channel4 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 167px;
+    top: 649px;
+
+
+}
+
+#channel5 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 611px;
+    top: 649px;
+
+}
+
+#channel6 {
+    position: absolute;
+    width: 420px;
+    height: 386px;
+    left: 1055px;
+    top: 645px;
+
+}
+
+.썸네일 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 111px;
+    left: 0px;
+}
+
+.center계정 {
+    position: absolute;
+    top: 298px;
+    right: 371.41px;
+    bottom: 41.41px;
+    left: 2px;
+    border-radius: 50%;
+}
+
+.영상제목 {
+    width: 166px;
+    height: 24px;
+    
+    position: absolute;
+    top: 303px;
+    right: 191px;
+    bottom: 59px;
+    left: 63px;
+    
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.사용자이름 {
+    width: 84px;
+    height: 22px;
+    
+    position: absolute;
+    top: 339px;
+    right: 273px;
+    bottom: 59px;
+    left: 63px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #474747;
+}
+
+.영상조회수날짜 {
+    position: absolute;
+    top: 364px;
+    right: 171px;
+    bottom: 0px;
+    left: 62px;
+}
+
+.main {
+    width: 1308px;
+    height: 837px;
+    position: absolute;
+
+    top: 194px;
+    right: 149px;
+    bottom: 88px;
+    left: 167px;
+
+
+}
